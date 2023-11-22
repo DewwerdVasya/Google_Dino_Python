@@ -3,4 +3,6 @@ Read the README
 
 Run Main
 
-google dino was made on pygame
+To run main, you have to download pycharm
+
+Google dino was made on pygame
